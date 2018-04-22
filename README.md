@@ -30,7 +30,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
 
 ### Description
-Your description goes here.
+I decided I'd record my daily life from school to home. Giving the audience a look at what it's like to look through my 4 eyes, glasses included. "Why Do You Feel So Down" by Declan Mckenna just fit perfecly to the idea I was trying to percieve. I really enjoyed fiming all the things I filmed and had a lot of fun with this project.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
