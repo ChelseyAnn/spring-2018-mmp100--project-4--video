@@ -27,7 +27,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-[http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
+http://mmp.bmcc.cuny.edu/chelsey.hill/Spring-2018/MMP-100/Project-4/through-my-eyes/
 
 ### Description
 I decided I'd record my daily life from school to home. Giving the audience a look at what it's like to look through my 4 eyes, glasses included. "Why Do You Feel So Down" by Declan Mckenna just fit perfectly to the idea I was trying to perceive I really enjoyed filming all the things I filmed and had a lot of fun with this project.
